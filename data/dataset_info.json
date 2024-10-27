@@ -1,4 +1,7 @@
 {
+  "alpaca_data": {
+    "file_name": "/models/env-model/dataset/alpaca_data.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },

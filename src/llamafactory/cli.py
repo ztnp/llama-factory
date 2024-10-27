@@ -108,6 +108,7 @@ def main():
             )
             sys.exit(process.returncode)
         else:
+            print('fuck2')
             run_exp()
     elif command == Command.WEBDEMO:
         run_web_demo()

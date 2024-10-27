@@ -16,6 +16,7 @@ from llamafactory.train.tuner import run_exp
 
 
 def main():
+    print('fuck1')
     run_exp()
 
 
